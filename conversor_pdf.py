@@ -41,4 +41,4 @@ tk.Button(janela, text="Converter para PDF", command=converter_para_pdf).pack(pa
 janela.mainloop()
 
 
-# Para usar o programa standalone usa a  pyinstaller e ico para colocar um icone --onefile --icon=meu_icone.ico conversordocxparapdf.py
+# Para usar o programa standalone usa a  pyinstaller e ico para colocar um icone --onefile --icon=icones/iconepdf.ico conversorpdf.py
